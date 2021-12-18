@@ -16,7 +16,7 @@
 
 - **accounts**
 
-## Controllers
+## Controller
 
 - **UserController.php**
 
@@ -25,3 +25,9 @@
 - **login.blade.php**
 - **register.blade.php**
 - **accounts.blade.php**
+
+## Model
+
+- **User.php**
+- **Accounts.php**
+
