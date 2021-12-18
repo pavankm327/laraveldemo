@@ -31,3 +31,14 @@
 - **User.php**
 - **Accounts.php**
 
+## Screenshots
+
+![login](https://user-images.githubusercontent.com/48543568/146641280-295bba23-ac9a-4da1-8ce4-4b041bab7eb2.png)
+
+![register](https://user-images.githubusercontent.com/48543568/146641288-f36771f8-bddb-4422-8864-996ae61bf664.png)
+
+![dashboard](https://user-images.githubusercontent.com/48543568/146641297-80749ba9-f478-43de-8c6e-9a1d98f92e1e.png)
+
+
+
+
